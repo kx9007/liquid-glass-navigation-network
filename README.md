@@ -2,7 +2,8 @@
 # <center>相关介绍</center>
 ### 仿苹果公司的液态玻璃导航网,在4420 UI找到的原版，然后ai协同写出一样风格
 ### 一个模仿苹果公司的液态玻璃导航网，ai协同辅助，有建议可以留言给我
-
+<img src="
+https://count.getloli.com/@liquid-glass-navigation-network?name=liquid-glass-navigation-network&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" width="100%">
 # <center>成品图</center>
 ## <center>白天黑夜 大屏设备
 #### <table align="center">
