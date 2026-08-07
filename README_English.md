@@ -3,6 +3,10 @@
 ### An Apple-style Liquid Glass navigation network. Found the original on 4420 UI, then co-built with AI to replicate the same style.
 ### A Liquid Glass navigation network imitating Apple's design, co-created with AI assistance. Suggestions are welcome.
 
+<h1 align="center">  
+<img src="https://count.getloli.com/@liquid-glass-navigation-network?name=liquid-glass-navigation-network&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+</h1>
+
 # <center>Screenshots</center>
 ## <center>Day & Night — Large Screen Devices
 #### <table align="center">
